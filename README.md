@@ -11,7 +11,14 @@
 Atuo na transformação de dados em insights acionáveis, com foco em análise exploratória, construção de dashboards e apoio à tomada de decisão. Tenho experiência prática com SQL, Python e ferramentas de visualização, desenvolvendo análises que conectam dados ao contexto de negócio.
  Meu interesse está em entender comportamento, identificar padrões e gerar soluções orientadas a dados que tragam clareza e direcionamento estratégico.
 </p>
-  
+
+## Publicações
+
+📄 **Ensino da lógica de programação por meio do Grasshopper com crianças da Biblioteca Comunitária Maria Dolores, a fim de desenvolver o raciocínio lógico**
+
+Artigo científico publicado na RECIMA21 - Revista Científica Multidisciplinar (2023), resultado de projeto de extensão universitária que ensinou lógica de programação para crianças em situação de vulnerabilidade socioeconômica, com acompanhamento e avaliação quantitativa do progresso dos participantes.
+
+🔗 [Ler artigo completo](https://doi.org/10.47820/recima21.v4i12.4583)
 
 #  Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=for-the-badge&logo=mysql&logoColor=white)
