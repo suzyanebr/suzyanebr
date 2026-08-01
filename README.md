@@ -35,12 +35,10 @@ Artigo científico publicado na RECIMA21 - Revista Científica Multidisciplinar 
 
 # GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suzyanebr&theme=github_dark&title_color=ffffff&text_color=ffffff" width="100%" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suzyanebr&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000" width="48%" alt="GitHub Stats" />
 
-
-</div>
 
 # Entre em contato comigo
 
