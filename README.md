@@ -1,26 +1,25 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=Ol%C3%A1%2C+bem-vindo(a)+ao+meu+GitHub" alt="Typing SVG">
-</a>
+  </a>
 </div>
 
-#  About Me
-
+# Sobre Mim
 <p align="justify">
-  Cientista da computação formada pela UEA e pós-graduanda em análise de dados e business intelligence.
+Cientista da computação formada pela UEA e pós-graduanda em análise de dados e business intelligence.
 Atuo na transformação de dados em insights acionáveis, com foco em análise exploratória, construção de dashboards e apoio à tomada de decisão. Tenho experiência prática com SQL, Python e ferramentas de visualização, desenvolvendo análises que conectam dados ao contexto de negócio.
- Meu interesse está em entender comportamento, identificar padrões e gerar soluções orientadas a dados que tragam clareza e direcionamento estratégico.
+Meu interesse está em entender comportamento, identificar padrões e gerar soluções orientadas a dados que tragam clareza e direcionamento estratégico.
 </p>
 
 ## Publicações
-
 📄 **Ensino da lógica de programação por meio do Grasshopper com crianças da Biblioteca Comunitária Maria Dolores, a fim de desenvolver o raciocínio lógico**
 
 Artigo científico publicado na RECIMA21 - Revista Científica Multidisciplinar (2023), resultado de projeto de extensão universitária que ensinou lógica de programação para crianças em situação de vulnerabilidade socioeconômica, com acompanhamento e avaliação quantitativa do progresso dos participantes.
 
 🔗 [Ler artigo completo](https://doi.org/10.47820/recima21.v4i12.4583)
 
-#  Tech Stack
+
+# Tecnologias
 ![SQL](https://img.shields.io/badge/SQL-3A3A3A?style=for-the-badge&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-3A3A3A?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Redshift-3A3A3A?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -33,18 +32,16 @@ Artigo científico publicado na RECIMA21 - Revista Científica Multidisciplinar 
 ![Tableau](https://img.shields.io/badge/Tableau-3A3A3A?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-3A3A3A?style=for-the-badge&logo=github&logoColor=white)
 
-# GitHub Stats
 
-
+# Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=suzyanebr&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000" width="48%" alt="GitHub Stats" />
+</p>
 
 
 # Entre em contato comigo
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suzyanebrito)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzyane.brito.analytics@gmail.com)
-
 
 
 
